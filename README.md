@@ -134,3 +134,4 @@ let estudiante2 = new Estudiante("Catalina", 22)
 ### 3. ¿Similitudes con clases en otros lenguajes?
 Las funciones constructoras cumplen el mismo propósito que las clases en lenguajes como Java, C# o Python, permitiendo encapsular datos y comportamiento.
 
+## 🧑‍💻 Autor: **RyuZeNK.Ai**   
